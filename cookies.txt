@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.monash.edu	TRUE	/	FALSE	1999999999	SQ_SYSTEM_SESSION	df4a428b2ebfc4d147eac61eed53fd4b
+
